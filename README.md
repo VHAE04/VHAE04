@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on **<a href="https://vuhoanganhmew.blogspot.com">vuhoanganhmew</a>**
   
-- 🌻 My hobby : forensics and web security
+- 🌻 My hobby is forensics and web security
 
 - 📫 How to reach me **vuhoanganh.dev@gmail.com**
 
