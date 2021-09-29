@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🌱, I'm VHAE</h1>
-- 📝 I regularly write articles on [vuhoanganhmew](https://vuhoanganhmew.blogspot.com)
+- 📝 I regularly write articles on <a href="https://vuhoanganhmew.blogspot.com">vuhoanganhmew</a>
 
 - 📫 How to reach me **vuhoanganh.dev@gmail.com**
 
