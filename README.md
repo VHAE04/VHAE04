@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🌱, I'm VHAE</h1><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1 align="center">Hi 🌱, I'm VHAE <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></h1>
 - 📝 I regularly write articles on <a href="https://vuhoanganhmew.blogspot.com">vuhoanganhmew</a>
 
 - 📫 How to reach me **vuhoanganh.dev@gmail.com**
