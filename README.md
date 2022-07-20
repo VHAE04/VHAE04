@@ -12,6 +12,11 @@
 
 - ⚡ Fun fact **There are 24 hours in a day?**
 
+```
+Donate ủng hộ vha mua bàn phím mới ;((
+19035767600010 : TECHCOMBANK
+```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/vhaelatuido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vhaelatuido" height="30" width="40" /></a>
