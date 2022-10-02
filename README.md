@@ -1,7 +1,8 @@
 <h1 align="center">Hi 🌱, I'm VHAE <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></h1>
 <div>
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vhae04" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://vn.linkedin.com/in/vhae04?trk=profile-badge">VU HOANG ANH</a></div>
+              
 
 
 - 📝 I regularly write articles on Security of Things
