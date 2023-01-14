@@ -5,7 +5,7 @@
               
 
 
-- 📝 I regularly write articles on Security of Things
+- 📝 Connect with me GMAIL : vhae04@gmail.com
   
 - 🌻 My hobby is forensics and web security
 
