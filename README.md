@@ -5,7 +5,7 @@
               
 
 
-- 📝 Connect with me GMAIL : vhae04@gmail.com
+- 📝 Connect with me TELEGRAM https://t.me/vhae04
   
 - 🌻 My hobby is forensics and web security
 
