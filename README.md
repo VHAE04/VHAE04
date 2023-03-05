@@ -15,9 +15,8 @@
 
 ```
 Donate me:
-https://www.paypal.com/paypalme/vhae04
 	
-or
+paypal.me/vhae04
 	
 19035767600010 : TECHCOMBANK : VU HOANG ANH
 ```
