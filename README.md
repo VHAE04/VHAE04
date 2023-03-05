@@ -14,8 +14,12 @@
 - ⚡ Fun fact **There are 24 hours in a day?**
 
 ```
-Donate ủng hộ vha mua bàn phím mới ;((
-19035767600010 : TECHCOMBANK
+Donate me:
+https://www.paypal.com/paypalme/vhae04
+	
+or
+	
+19035767600010 : TECHCOMBANK : VU HOANG ANH
 ```
 
 This is my keyboard
