@@ -15,10 +15,10 @@
 
 ```
 Donate me:
-	
-paypal.me/vhae04
-	
 19035767600010 : TECHCOMBANK : VU HOANG ANH
+OR paypal.me/vhae04
+	
+
 ```
 
 This is my keyboard
