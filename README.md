@@ -15,8 +15,7 @@
 
 ```
 Donate me:
-19035767600010 : TECHCOMBANK : VU HOANG ANH
-OR paypal.me/vhae04
+paypal.me/vhae04
 ```
 
 This is my keyboard 2021
